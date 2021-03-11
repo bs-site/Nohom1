@@ -1,7 +1,7 @@
 /*rang safe header*/
 
 body{
-   background-color: #fcfdb2;
+   background-color: #8eb8ad;
 	font-family:'open Sans' ,sans-serif;
 	margin:0;
 }
@@ -13,7 +13,7 @@ body{
 }
 
 .main-heading{
-	 color:#8dd809;
+	 color:#ce2118;
 	 font-size:70px;
    text-align:center;
 }
@@ -32,17 +32,11 @@ body{
          height: 300px;
          border: 5px ;
           border-style: solid;
-          border-color:#a77e00;
+          border-color:#08415d;
          text-align: center;
-         background-color:#fdf77d;
+         background-color:#fffcf0;
  
       }
-
-
-.color-summary{
-	 color:#FFC122;
-	 font-size:25px;
-  }
 
 
 .imager{
@@ -71,7 +65,7 @@ body{
 }
 
 .back-list{
-  color:#fcfdb2;
+  color:#8eb8ad;
 }
 
 .back-link{
@@ -83,9 +77,9 @@ body{
          height: 30px;
          border: 6px ;
           border-style: solid;
-          border-color: #a74300;
+          border-color:#f2fafd;
          text-align: center;
-         background-color: #feff67; 
+         background-color: #008487; 
 }
 
 
